@@ -33,7 +33,7 @@ void LinearSearch()
 {
     char ch;
     int ctr; // number of comparisons
-    
+    int item;
 }
 {
     std::cout << "Hello World!\n";
