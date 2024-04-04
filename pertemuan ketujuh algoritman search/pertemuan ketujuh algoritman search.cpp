@@ -3,7 +3,7 @@
 
 #include <iostream>
 using namespace std;
-int main()
+int arr[20]; // array to be searched
 {
     std::cout << "Hello World!\n";
 }
