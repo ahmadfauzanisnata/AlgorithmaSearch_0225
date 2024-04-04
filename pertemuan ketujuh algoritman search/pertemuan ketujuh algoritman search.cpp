@@ -31,5 +31,9 @@ void input ()
 
 void LinearSearch()
 {
+    char ch;
+    
+}
+{
     std::cout << "Hello World!\n";
 }
