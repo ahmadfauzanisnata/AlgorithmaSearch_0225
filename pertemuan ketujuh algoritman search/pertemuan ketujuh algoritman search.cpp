@@ -28,6 +28,8 @@ void input ()
         cin >> arr[i];
     }
 }
+
+void LinearSearch()
 {
     std::cout << "Hello World!\n";
 }
